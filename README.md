@@ -6,4 +6,4 @@ If the query match with the queries in database it will populate the answer.
 For matching the queries we use Levenshtein distance algorithm.
 If the match is above 65% with the queries in database then only we will populate the result
 
-![](https://github.com/sinergiamedialabs/UNICEF-PoC-WhatsApp-Tracker/blob/main/flow.gif)
+![](https://github.com/sinergiamedialabs/UNICEF-PoC-Child-Counselling/blob/main/flow.gif)
